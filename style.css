@@ -103,7 +103,24 @@ p{
     width: 100%;
 }
 
-/*-------- Recipie -------*/
+/*-------- Form area -------*/
+
+.cta{
+	width: 80%;
+	text-align: center;
+	margin: 100px auto;
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/banner2.jpg);
+	background-position: center;
+	background-size: cover;
+	border-radius: 10px;
+	padding: 100px 0;
+}
+.cta h1{
+	color: #fff;
+	margin-bottom: 40px;
+	padding: 0;
+	font-weight: 600;
+}
 
 .footer{
     background:#0B0D17;
